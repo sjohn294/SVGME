@@ -1,10 +1,30 @@
 # SVGME
-<svg xmlns="http://www.w3.org/2000/svg" height="200" width="300">
-  <circle cx="150" cy="150" r="80" stroke="black" stroke-width="3" fill="red" />
-</svg>
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
-  <rect width="120" height="120" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" />
-</svg>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="200" width="300">
-  <polygon points="150,18 244,182 56,182" style="fill:lime;stroke:purple;stroke-width:1" />
-</svg>
+ ## Description
+  using a command line application to create an SVG where the user can pick the shape text and color of said shape and text
+  
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution Guidelines](#contribution-guidelines)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  
+  ## Installation
+  run node index.js in powershell
+  
+  ## Usage
+  to create svg logos for businesses
+
+
+![](svg.gif)
+
+  
+  ## Contribution Guidelines
+  N/A
+  
+  ## Tests
+  by seeing if the logo is generated and matches users specifications
+  
+  ## Questions
+  If you have any questions about this project, please contact me on [GitHub](https://github.com/sjon294) or email me at johnson.sam26.sj@gmail.com.
+  
